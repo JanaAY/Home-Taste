@@ -1,4 +1,4 @@
-# Home Taste - Lebanese Food Exploration (University Project)
+# Home Taste - Lebanese Food 
 
 ## Introduction
 
